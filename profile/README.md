@@ -13,7 +13,7 @@ URL shortening started as a solution to address limitations in early platforms, 
 
 ### Modern-day Applications
 
-Today, URL shorteners are not just about brevity. They are equipped with analytics tools, branding capabilities, and customizable options that enable businesses to integrate their brand identity into every shared link. Custom URL shorteners have become integral to digital marketing, providing insights into link performance, geographic location of clicks, and even the devices used.
+Today, URL shorteners are not just about brevity. They are equipped with analytics tools, branding capabilities, and customizable options that enable businesses to integrate their brand identity into every shared link. [Custom URL shorteners](https://shortme.now) have become integral to digital marketing, providing insights into link performance, geographic location of clicks, and even the devices used.
 
 ---
 
